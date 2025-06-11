@@ -27,7 +27,7 @@ View the chromatin state model and signal tracks interactively using the [WashU 
   [`ATAC_tracks.json`](https://aldiri-2017-retina-epigenome.s3.us-east-2.amazonaws.com/ATAC/ATAC_tracks.json)
 
 - **ChIP-seq Signal Tracks**  
-  [`ChIP_tracks.json`](https://aldiri-2017-retina-epigenome.s3.us-east-2.amazonaws.com/ChIP/chip_tracks.json)
+  [`ChIP_tracks.json`](https://aldiri-2017-retina-epigenome.s3.us-east-2.amazonaws.com/ChIP/ChIP_tracks.json)
 
 > To view tracks:  
 > In the WashU browser, go to **Track Hubs → My Hubs → Add JSON URL**, and paste one of the links above.
@@ -44,5 +44,7 @@ View the chromatin state model and signal tracks interactively using the [WashU 
 ##  Contact
 
 For questions, feel free to contact [naga@wustl.edu].
+GitHub Repository: [sohinireddy45/mm10-chromhmm-model](https://github.com/sohinireddy45/mm10-chromhmm-model)
+
 
 
