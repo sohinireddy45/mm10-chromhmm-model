@@ -45,7 +45,7 @@ View the chromatin state model and signal tracks interactively using the [WashU 
 
 For questions, feel free to contact [naga@wustl.edu].
 
-> GitHub Repository: [sohinireddy45/mm10-chromhmm-model](https://github.com/sohinireddy45/mm10-chromhmm-model)
+
 
 
 
